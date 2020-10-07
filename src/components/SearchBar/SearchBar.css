@@ -29,9 +29,7 @@
     .search-bar {
         margin: 0 auto;
         text-align: center;
-        position: sticky;
-        top: 0;
-        z-index: 10;
+        padding-top: 20px;
     }
 
     .search-bar input {
